@@ -34,5 +34,5 @@
   If you have any questions, please contact the project owner by clicking on the email listed below.  
   
   ![user image](https://avatars2.githubusercontent.com/u/68213703?v=4)
-  #### This user's email is private.
+  #### billy.arrasmith@gmail.com
 
